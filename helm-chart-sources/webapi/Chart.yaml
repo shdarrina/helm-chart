@@ -2,6 +2,6 @@ apiVersion: v2
 name: webapi
 description: A shared Helm chart for deploying web APIs
 type: application
-version: 0.0.2
-appVersion: 0.0.2
+version: 0.0.3
+appVersion: 0.0.3
 icon: https://selecthealth.org/favicon.ico
