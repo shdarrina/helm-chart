@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  myfirstchart:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2023-10-28T23:40:41.689428706Z"
+    description: A Helm chart for Kubernetes
+    digest: c65b1e9c0311f00424334f7012a89a96b4b2b022c1b39a5263fbfc8edade0145
+    name: myfirstchart
+    type: application
+    urls:
+    - https://github.com/shdarrina/helm-chart/releases/download/myfirstchart-0.1.1/myfirstchart-0.1.1.tgz
+    version: 0.1.1
   webapi:
   - apiVersion: v2
     appVersion: 0.0.3
@@ -34,4 +45,4 @@ entries:
     urls:
     - https://shdarrina.github.io/helm-chart/webapi-0.0.1.tgz
     version: 0.0.1
-generated: "2023-10-25T13:48:34.7012623-06:00"
+generated: "2023-10-28T23:40:41.689440706Z"
