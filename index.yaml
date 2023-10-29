@@ -23,6 +23,17 @@ entries:
     version: 0.1.1
   webapi:
   - apiVersion: v2
+    appVersion: 0.1.4
+    created: "2023-10-29T01:37:08.620544712Z"
+    description: A shared Helm chart for deploying web APIs
+    digest: fe2aad93eef3dc2da338fc09f85274b62c0e57f03404400dfd61fef890f5b6cd
+    icon: https://selecthealth.org/favicon.ico
+    name: webapi
+    type: application
+    urls:
+    - https://github.com/shdarrina/helm-chart/releases/download/webapi-0.1.4/webapi-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
     appVersion: 0.0.3
     created: "2023-10-25T13:48:34.7064601-06:00"
     description: A shared Helm chart for deploying web APIs
@@ -55,4 +66,4 @@ entries:
     urls:
     - https://shdarrina.github.io/helm-chart/webapi-0.0.1.tgz
     version: 0.0.1
-generated: "2023-10-29T01:35:34.622301906Z"
+generated: "2023-10-29T01:37:08.620576113Z"
